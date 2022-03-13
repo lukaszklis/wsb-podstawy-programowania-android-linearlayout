@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LinearLayoutApp</string>
+    <string name="name_input_label">Enter your name here:</string>
+    <string name="name_input_hint">Name</string>
+    <string name="button_label">Show</string>
+    <string name="name_input_warning">Oops! It seems like you’ve entered no name! Please try again.</string>
+    <string name="display_name">Hello %1$s!</string>
+</resources>
